@@ -1,2 +1,3 @@
 # Nexter
- Built by Html Sass and layout with Grid
+
+Landing page built by Html Sass and layout with Grid.
